@@ -1,0 +1,29 @@
+{
+  "name": "crowdbase-hackpad-importer",
+  "version": "0.0.1",
+  "description": "import crowdbase files to hackpad",
+  "main": "import.js",
+  "dependencies": {
+    "commander": "^2.3.0",
+    "hackpad": "^0.0.3",
+    "async": "^0.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rkstedman/crowdbase-hackpad-importer.git"
+  },
+  "keywords": [
+    "crowdbase",
+    "hackpad"
+  ],
+  "author": "rkstedman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rkstedman/crowdbase-hackpad-importer/issues"
+  },
+  "homepage": "https://github.com/rkstedman/crowdbase-hackpad-importer"
+}
